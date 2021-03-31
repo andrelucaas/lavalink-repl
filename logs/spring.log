@@ -1,0 +1,215 @@
+2021-03-31 00:02:27.256 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50538
+2021-03-31 00:07:26.248 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60522
+2021-03-31 00:12:26.134 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:55136
+2021-03-31 00:17:26.303 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36094
+2021-03-31 00:22:26.200 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39610
+2021-03-31 00:27:26.192 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34168
+2021-03-31 00:32:26.246 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:55540
+2021-03-31 00:37:26.227 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49212
+2021-03-31 00:42:26.227 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53646
+2021-03-31 00:47:26.235 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34074
+2021-03-31 00:52:26.218 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46606
+2021-03-31 00:57:26.329 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43740
+2021-03-31 01:02:26.200 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56094
+2021-03-31 01:07:26.143 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49470
+2021-03-31 01:12:26.205 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44908
+2021-03-31 01:17:26.161 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45826
+2021-03-31 01:22:26.193 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53558
+2021-03-31 01:27:26.176 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49672
+2021-03-31 01:32:26.240 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45544
+2021-03-31 01:37:26.267 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59978
+2021-03-31 01:42:26.431 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49722
+2021-03-31 01:47:26.263 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36278
+2021-03-31 01:52:26.276 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59312
+2021-03-31 01:57:26.263 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33904
+2021-03-31 02:02:26.203 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43912
+2021-03-31 02:07:26.257 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44904
+2021-03-31 02:12:26.160 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43948
+2021-03-31 02:17:26.241 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35494
+2021-03-31 02:22:26.298 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:38146
+2021-03-31 02:27:26.124 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34482
+2021-03-31 02:32:27.232 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39832
+2021-03-31 02:37:26.375 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34510
+2021-03-31 02:42:26.285 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35362
+2021-03-31 02:47:26.159 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59688
+2021-03-31 02:52:26.245 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45302
+2021-03-31 02:57:26.222 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60754
+2021-03-31 03:02:26.220 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44368
+2021-03-31 03:07:26.177 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33326
+2021-03-31 03:12:26.122 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46394
+2021-03-31 03:17:26.196 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34564
+2021-03-31 03:22:26.194 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54700
+2021-03-31 03:27:26.242 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48702
+2021-03-31 03:32:26.211 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39720
+2021-03-31 03:37:26.206 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46924
+2021-03-31 03:42:27.262 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44528
+2021-03-31 03:47:26.268 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58268
+2021-03-31 03:52:26.076 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:34682
+2021-03-31 03:57:26.150 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48190
+2021-03-31 04:02:26.264 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54064
+2021-03-31 04:07:26.149 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:58446
+2021-03-31 04:12:26.206 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44762
+2021-03-31 04:17:26.082 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36868
+2021-03-31 04:22:26.255 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40228
+2021-03-31 04:27:26.195 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59364
+2021-03-31 04:32:26.196 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39550
+2021-03-31 04:37:26.079 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52780
+2021-03-31 04:42:26.212 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46152
+2021-03-31 04:47:26.154 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49652
+2021-03-31 04:52:26.189 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46844
+2021-03-31 04:57:26.203 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48248
+2021-03-31 05:02:26.177 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53754
+2021-03-31 05:07:26.146 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:57164
+2021-03-31 05:12:26.194 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54210
+2021-03-31 05:17:26.170 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:57806
+2021-03-31 05:22:26.194 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43114
+2021-03-31 05:27:26.200 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47794
+2021-03-31 05:32:26.083 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48164
+2021-03-31 05:37:26.280 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39676
+2021-03-31 05:42:26.120 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50388
+2021-03-31 05:47:26.219 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:42592
+2021-03-31 05:52:26.201 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60916
+2021-03-31 05:57:26.197 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53554
+2021-03-31 06:02:26.201 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51014
+2021-03-31 06:07:26.190 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43558
+2021-03-31 06:12:26.228 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33946
+2021-03-31 06:17:26.086 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41640
+2021-03-31 06:22:26.218 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50118
+2021-03-31 06:27:27.261 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33686
+2021-03-31 06:32:26.246 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56510
+2021-03-31 06:37:26.262 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50820
+2021-03-31 06:42:26.202 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50884
+2021-03-31 06:47:26.135 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41836
+2021-03-31 06:52:26.406 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45026
+2021-03-31 06:57:26.254 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46268
+2021-03-31 07:02:26.180 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43292
+2021-03-31 07:07:26.165 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44074
+2021-03-31 07:12:26.214 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43446
+2021-03-31 07:17:26.256 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59572
+2021-03-31 07:22:26.245 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44170
+2021-03-31 07:27:26.232 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:53772
+2021-03-31 07:32:26.234 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40720
+2021-03-31 07:37:26.264 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47938
+2021-03-31 07:42:26.193 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56210
+2021-03-31 07:47:26.257 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:57202
+2021-03-31 07:52:26.236 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39312
+2021-03-31 07:57:26.072 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43740
+2021-03-31 08:02:26.141 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54520
+2021-03-31 08:07:26.202 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:40098
+2021-03-31 08:12:27.244 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45928
+2021-03-31 08:17:26.230 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:52932
+2021-03-31 08:22:26.245 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33414
+2021-03-31 08:27:26.234 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45570
+2021-03-31 08:32:26.234 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:33850
+2021-03-31 08:37:26.248 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:45870
+2021-03-31 08:42:26.236 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44504
+2021-03-31 08:47:26.227 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56476
+2021-03-31 08:52:26.238 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:42096
+2021-03-31 08:57:26.235 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49390
+2021-03-31 09:02:26.268 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46124
+2021-03-31 09:07:26.238 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60564
+2021-03-31 09:12:26.267 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:51464
+2021-03-31 09:17:26.180 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:48776
+2021-03-31 09:22:26.238 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:47314
+2021-03-31 09:27:26.183 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:55732
+2021-03-31 09:32:26.191 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44100
+2021-03-31 09:37:26.206 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:60772
+2021-03-31 09:42:26.366 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54068
+2021-03-31 09:47:27.272 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44940
+2021-03-31 09:52:26.235 ERROR 14 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41950
+2021-03-31 09:57:26.246 ERROR 14 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:56052
+2021-03-31 10:02:26.241 ERROR 14 --- [XNIO-1 task-13] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:38076
+2021-03-31 10:07:26.163 ERROR 14 --- [XNIO-1 task-14] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:36050
+2021-03-31 10:12:26.402 ERROR 14 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:39780
+2021-03-31 10:17:26.157 ERROR 14 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:49674
+2021-03-31 10:22:26.193 ERROR 14 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:41742
+2021-03-31 10:27:26.169 ERROR 14 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:54694
+2021-03-31 10:32:26.243 ERROR 14 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46816
+2021-03-31 10:37:26.400 ERROR 14 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:35688
+2021-03-31 10:42:27.250 ERROR 14 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:59164
+2021-03-31 10:47:26.207 ERROR 14 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46812
+2021-03-31 10:52:26.216 ERROR 14 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:44746
+2021-03-31 10:57:26.447 ERROR 14 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:50100
+2021-03-31 11:02:26.216 ERROR 14 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:43440
+2021-03-31 11:05:43.431 ERROR 14 --- [XNIO-1 task-10] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.18.0.1:46662
+2021-03-31 11:06:53.674  INFO 14 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-31 11:06:53.676  INFO 14 --- [Thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2021-03-31 11:06:53.680  INFO 14 --- [Thread-1] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-03-31 11:07:04.517  INFO 72 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.3.2.1
+	Build:          1132
+	Build time:     28.10.2020 21:44:36 UTC
+	Branch          master
+	Commit:         833f72e
+	Commit time:    28.10.2020 21:39:31 UTC
+	JVM:            11.0.10
+	Lavaplayer      1.3.53
+
+2021-03-31 11:07:05.637  INFO 72 --- [main] lavalink.server.Launcher                 : Starting Launcher on e86dbf7605a9 with PID 72 (/home/runner/starlavalink/lavalink.jar started by runner in /home/runner/starlavalink)
+2021-03-31 11:07:05.639  INFO 72 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2021-03-31 11:07:07.524  WARN 72 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2021-03-31 11:07:21.024  INFO 103 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.3.2.1
+	Build:          1132
+	Build time:     28.10.2020 21:44:36 UTC
+	Branch          master
+	Commit:         833f72e
+	Commit time:    28.10.2020 21:39:31 UTC
+	JVM:            11.0.10
+	Lavaplayer      1.3.53
+
+2021-03-31 11:07:21.935  INFO 103 --- [main] lavalink.server.Launcher                 : Starting Launcher on e86dbf7605a9 with PID 103 (/home/runner/starlavalink/lavalink.jar started by runner in /home/runner/starlavalink)
+2021-03-31 11:07:22.012  INFO 103 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2021-03-31 11:07:23.016  WARN 103 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2021-03-31 11:07:39.537  INFO 133 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.3.2.1
+	Build:          1132
+	Build time:     28.10.2020 21:44:36 UTC
+	Branch          master
+	Commit:         833f72e
+	Commit time:    28.10.2020 21:39:31 UTC
+	JVM:            11.0.10
+	Lavaplayer      1.3.53
+
+2021-03-31 11:07:40.917  INFO 133 --- [main] lavalink.server.Launcher                 : Starting Launcher on e86dbf7605a9 with PID 133 (/home/runner/starlavalink/lavalink.jar started by runner in /home/runner/starlavalink)
+2021-03-31 11:07:40.919  INFO 133 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2021-03-31 11:07:42.429  WARN 133 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2021-03-31 11:07:50.216  WARN 133 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-03-31 11:07:50.416  INFO 133 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-03-31 11:07:50.416  INFO 133 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 8884 ms
+2021-03-31 11:07:52.533  WARN 133 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2021-03-31 11:07:54.850  INFO 133 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2021-03-31 11:07:56.142  INFO 133 --- [main] lavalink.server.config.KoeConfiguration  : OS: Linux, Arch: amd64
+2021-03-31 11:07:56.144  INFO 133 --- [main] lavalink.server.config.KoeConfiguration  : Enabling JDA-NAS
+2021-03-31 11:07:56.149  INFO 133 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2021-03-31 11:07:56.154  INFO 133 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2021-03-31 11:07:58.023  INFO 133 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-31 11:07:59.926  INFO 133 --- [main] org.xnio                                 : XNIO version 3.3.8.Final
+2021-03-31 11:08:00.033  INFO 133 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.3.8.Final
+2021-03-31 11:08:00.318  INFO 133 --- [main] o.s.b.w.e.u.UndertowServletWebServer     : Undertow started on port(s) 2333 (http) with context path ''
+2021-03-31 11:08:00.325  INFO 133 --- [main] lavalink.server.Launcher                 : Started Launcher in 26.711 seconds (JVM running for 29.907)
+2021-03-31 11:08:00.327  INFO 133 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/Frederikam/Lavalink/issues/295
